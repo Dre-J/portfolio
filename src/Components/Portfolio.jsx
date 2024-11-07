@@ -32,7 +32,7 @@ const imageAltText = "desktop with books and laptop";
 const projectList = [
   {
     title: "DocuAI",
-    description: "A mobile app Document summarizer with an AI Chat similar to",
+    description: "A mobile app Document summarizer with an AI Chat similar to ReadEra",
     url: "",
   },
   {
